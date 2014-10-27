@@ -1,5 +1,5 @@
 Versionado de recursos
-------------------------
+======================
 El versionado de recursos trata de la relación entre sistemas de gestión de software, el lanzamiento de nuevas versiones o el desarrollo de funcionalidades específicas.  Esto quiere decir, por ejemplo, que por medio de este se puede realizar un seguimiento del desarrollo de una aplicación, como las correcciones que se van realizando sobre ella, funciones que se le agrega o quita a medida pasa el tiempo, o cuando se trata de  una versión paralela de un programa que realiza funciones mas especificas como es el caso de los “Windows Server”.                           
 Los términos habituales son: 
 •	Trunk: se refiere a la rama actual de desarrollo, aquí es donde entrarían todas las funcionalidades que el equipo está desarrollando. En tecnologías como git el término habitual es "master". 
